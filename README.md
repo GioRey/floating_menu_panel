@@ -45,7 +45,7 @@ These are all the properties you can customize of the floating panel.
             ...
     
             // Add Float Box Panel at the bottom of the 'stack' widget.
-            FloatBoxPanel(
+            FloatingMenuPanel(
                 positionTop: 0.0, // Initial Top Position
                 positionLeft: 0.0, // Initial Left Position
                 backgroundColor: Color(0xFFEDEDED), // Color of the panel
